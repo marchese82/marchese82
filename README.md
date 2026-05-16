@@ -13,7 +13,7 @@ Experienced in high-volume historical data formats and setting up optimized remo
 
 * **ES Futures Historical Tick Data (1-Tick Resolution)**
   Institutional-grade, zero-gap historical data lake for S&P 500 E-mini Futures (ES) optimized in Apache Parquet format. 
-  👉 **[Access the Free 1-Week Sample & Python Script Here](./es-futures-parquet-sample)
+  👉 **[Access the Free 1-Week Sample & Python Script Here](es-futures-parquet-sample)
 
 ---
 ### 💼 Let's Work Together
